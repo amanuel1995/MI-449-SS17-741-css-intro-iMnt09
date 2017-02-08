@@ -49,9 +49,9 @@ section{
 
 h2{
   border: 0px;
-  border-bottom: 1px;
+  border-bottom: 2px;
   border-style: solid;
-  border-color: orange;
+  border-color: #D5A470;
   border-spacing: 5px;
   padding: 15px;
 }
